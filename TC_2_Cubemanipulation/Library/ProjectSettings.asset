@@ -11,7 +11,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: TC_1_Set_Up
+  productName: TC_2
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21176471, a: 1}
@@ -509,7 +509,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: TC_1_Set_Up
   metroPackageVersion: 
-  metroCertificatePath: C:\Dev\Workspace\TC\TC_1_Set_Up\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany

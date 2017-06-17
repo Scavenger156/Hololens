@@ -15544,16 +15544,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Workspace\\TC\\TC_1_Set_Up\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+      "projectUniqueName": "C:\\Dev\\Workspace\\Git\\Hololens\\TC_2_Cubemanipulation\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
       "projectName": "Assembly-CSharp",
-      "projectPath": "C:\\Dev\\Workspace\\TC\\TC_1_Set_Up\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
-      "projectJsonPath": "C:\\Dev\\Workspace\\TC\\TC_1_Set_Up\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\project.json",
+      "projectPath": "C:\\Dev\\Workspace\\Git\\Hololens\\TC_2_Cubemanipulation\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+      "projectJsonPath": "C:\\Dev\\Workspace\\Git\\Hololens\\TC_2_Cubemanipulation\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\Dev\\Workspace\\TC\\TC_1_Set_Up\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj": {
-              "projectPath": "C:\\Dev\\Workspace\\TC\\TC_1_Set_Up\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj"
+            "C:\\Dev\\Workspace\\Git\\Hololens\\TC_2_Cubemanipulation\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj": {
+              "projectPath": "C:\\Dev\\Workspace\\Git\\Hololens\\TC_2_Cubemanipulation\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj"
             }
           }
         }

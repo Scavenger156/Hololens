@@ -15490,10 +15490,10 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Workspace\\TC\\TC_1_Set_Up\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj",
+      "projectUniqueName": "C:\\Dev\\Workspace\\Git\\Hololens\\TC_2_Cubemanipulation\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj",
       "projectName": "Assembly-CSharp-firstpass",
-      "projectPath": "C:\\Dev\\Workspace\\TC\\TC_1_Set_Up\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj",
-      "projectJsonPath": "C:\\Dev\\Workspace\\TC\\TC_1_Set_Up\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\project.json",
+      "projectPath": "C:\\Dev\\Workspace\\Git\\Hololens\\TC_2_Cubemanipulation\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj",
+      "projectJsonPath": "C:\\Dev\\Workspace\\Git\\Hololens\\TC_2_Cubemanipulation\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\project.json",
       "projectStyle": "ProjectJson"
     },
     "dependencies": {
