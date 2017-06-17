@@ -15870,13 +15870,13 @@
     },
     "Assembly-CSharp/1.0.0": {
       "type": "project",
-      "path": "../GeneratedProjects/UWP/Assembly-CSharp/project.json",
-      "msbuildProject": "../GeneratedProjects/UWP/Assembly-CSharp/Assembly-CSharp.csproj"
+      "path": "../../../../../TC/TC_1_Set_Up/App/GeneratedProjects/UWP/Assembly-CSharp/project.json",
+      "msbuildProject": "../../../../../TC/TC_1_Set_Up/App/GeneratedProjects/UWP/Assembly-CSharp/Assembly-CSharp.csproj"
     },
     "Assembly-CSharp-firstpass/1.0.0": {
       "type": "project",
-      "path": "../GeneratedProjects/UWP/Assembly-CSharp-firstpass/project.json",
-      "msbuildProject": "../GeneratedProjects/UWP/Assembly-CSharp-firstpass/Assembly-CSharp-firstpass.csproj"
+      "path": "../../../../../TC/TC_1_Set_Up/App/GeneratedProjects/UWP/Assembly-CSharp-firstpass/project.json",
+      "msbuildProject": "../../../../../TC/TC_1_Set_Up/App/GeneratedProjects/UWP/Assembly-CSharp-firstpass/Assembly-CSharp-firstpass.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -15893,10 +15893,10 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Workspace\\TC\\TC_1_Set_Up\\App\\TC_1_Set_Up\\TC_1_Set_Up.csproj",
+      "projectUniqueName": "C:\\Dev\\Workspace\\Git\\TC\\TC_1_Set_Up\\App\\TC_1_Set_Up\\TC_1_Set_Up.csproj",
       "projectName": "TC_1_Set_Up",
-      "projectPath": "C:\\Dev\\Workspace\\TC\\TC_1_Set_Up\\App\\TC_1_Set_Up\\TC_1_Set_Up.csproj",
-      "projectJsonPath": "C:\\Dev\\Workspace\\TC\\TC_1_Set_Up\\App\\TC_1_Set_Up\\project.json",
+      "projectPath": "C:\\Dev\\Workspace\\Git\\TC\\TC_1_Set_Up\\App\\TC_1_Set_Up\\TC_1_Set_Up.csproj",
+      "projectJsonPath": "C:\\Dev\\Workspace\\Git\\TC\\TC_1_Set_Up\\App\\TC_1_Set_Up\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
