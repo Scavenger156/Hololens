@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TC_1_Set_Up", "TC_1_Set_Up.csproj", "{9EB6F6E9-A961-7FFD-6439-6B63139A6E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TC_1_Set_Up.Editor", "TC_1_Set_Up.Editor.csproj", "{D5837F10-163C-BC31-3658-C1F656129CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EB6F6E9-A961-7FFD-6439-6B63139A6E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB6F6E9-A961-7FFD-6439-6B63139A6E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB6F6E9-A961-7FFD-6439-6B63139A6E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB6F6E9-A961-7FFD-6439-6B63139A6E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5837F10-163C-BC31-3658-C1F656129CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5837F10-163C-BC31-3658-C1F656129CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5837F10-163C-BC31-3658-C1F656129CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5837F10-163C-BC31-3658-C1F656129CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
